@@ -1,3 +1,12 @@
+A simple form app that utilizes the Shopify API to create store products and inventory.
+
+
+
+
+
+
+
+
 # Shopify App Node
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE.md)
